@@ -1,0 +1,11 @@
+{
+  "todoist-sync-plugin:todoist-add-task": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "="
+    }
+  ]
+}

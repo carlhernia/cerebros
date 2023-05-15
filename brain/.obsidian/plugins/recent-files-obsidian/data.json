@@ -1,0 +1,55 @@
+{
+  "recentFiles": [
+    {
+      "basename": "hub",
+      "path": "hub.canvas"
+    },
+    {
+      "basename": "to_do",
+      "path": "notes/to_do.md"
+    },
+    {
+      "basename": "dashboard",
+      "path": "notes/dashboard.md"
+    },
+    {
+      "basename": "brain_dump",
+      "path": "notes/brain_dump.md"
+    },
+    {
+      "basename": "book_notes",
+      "path": "templates/book_notes.md"
+    },
+    {
+      "basename": "blog_post",
+      "path": "templates/blog_post.md"
+    },
+    {
+      "basename": "class_notes",
+      "path": "templates/class_notes.md"
+    },
+    {
+      "basename": "daily_notes",
+      "path": "templates/daily_notes.md"
+    },
+    {
+      "basename": "meeting_notes",
+      "path": "templates/meeting_notes.md"
+    },
+    {
+      "basename": "eisenhower_matrix",
+      "path": "templates/eisenhower_matrix.md"
+    },
+    {
+      "basename": "Ahrens-How to Take Smart Notes",
+      "path": "highlights/Ahrens-How to Take Smart Notes.md"
+    },
+    {
+      "basename": "quote_otd",
+      "path": "notes/quote_otd.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

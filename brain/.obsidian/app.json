@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "templates/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "attachmentFolderPath": "attachments"
+}

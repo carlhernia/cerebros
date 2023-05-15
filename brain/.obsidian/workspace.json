@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "53dcd9311f32507f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2e6b23113d83041",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33583fa9e77c5683",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "hub.canvas",
+                "viewState": {
+                  "x": -20,
+                  "y": -160,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b96adcdb49f598b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e43b20f673ac59e",
+        "type": "tabs",
+        "dimension": 38.237384506041224,
+        "children": [
+          {
+            "id": "f02a7121ff59d90d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93b15c9f4536c02a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "83ff9dbf67c585ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9a5fdd7febcd834a",
+        "type": "tabs",
+        "dimension": 29.06894100923952,
+        "children": [
+          {
+            "id": "a26b2b7cb002ad43",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "321d8d4bbeda0854",
+        "type": "tabs",
+        "dimension": 32.69367448471926,
+        "children": [
+          {
+            "id": "1c777081619e7a25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/to_do.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 392.5
+  },
+  "right": {
+    "id": "ff0c5ea94160ec69",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aff3159fdb918d4",
+        "type": "tabs",
+        "dimension": 33.285917496443815,
+        "children": [
+          {
+            "id": "7424a02237db3f21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8f9d18ed1ec6f55b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c35a6c086ffe5c2b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b58f28b9a1c76d68",
+        "type": "tabs",
+        "dimension": 41.32290184921764,
+        "children": [
+          {
+            "id": "4de1eb2866e1e9dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/to_do.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37cb737b8283a0e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/to_do.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "46086e6dff1ed285",
+        "type": "tabs",
+        "dimension": 25.391180654338548,
+        "children": [
+          {
+            "id": "bbc7acc49216052c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 398.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "dbfolder:Create a new database table": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "canvas:Create new canvas": true,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "templater-obsidian:Templater": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "omnisearch:Omnisearch": true,
+      "graph:Open graph view": true,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "33583fa9e77c5683",
+  "lastOpenFiles": [
+    "notes/dashboard.md",
+    "hub.canvas",
+    "templates/book_notes.md",
+    "templates/blog_post.md",
+    "templates/class_notes.md",
+    "templates/daily_notes.md",
+    "templates/meeting_notes.md",
+    "templates/eisenhower_matrix.md",
+    "templates/cornell_notes.md",
+    "notes/Untitled.md",
+    "highlights/Ahrens-How to Take Smart Notes.md",
+    "notes/quote_otd.md",
+    "notes/brain_dump.md",
+    "daily_notes/2023-05-15.md",
+    "notes/learning/Untitled database.md",
+    "notes/projects/project_01.md",
+    "notes/learning/class_01.md",
+    "notes/to_do.md",
+    "highlights/Camus-Ward-The Stranger.md",
+    "highlights/Kiyosaki-Rich Dad Poor Dad.md",
+    "highlights/Kim-A Guide to Japanese Grammar.md",
+    "highlights/X-Handler-The Autobiography of Malcolm X.md",
+    "highlights/Marx-The Communist Manifesto.md",
+    "highlights/Bryson-A Short History of Nearly Everything.md",
+    "highlights/Camus-The Myth of Sisyphus.md",
+    "highlights/Dawkins-The Selfish Gene.md",
+    "notes/learning",
+    "notes/projects",
+    "attachments",
+    "highlights",
+    "notes",
+    "archive",
+    "99_attachments",
+    "templates",
+    "daily_notes",
+    "Daily Notes"
+  ]
+}
