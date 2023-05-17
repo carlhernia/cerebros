@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2e6b23113d83041",
+        "id": "3472164116b92fd8",
         "type": "tabs",
         "children": [
           {
-            "id": "33583fa9e77c5683",
+            "id": "2019d1e296955df6",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -16,7 +16,7 @@
                 "file": "hub.canvas",
                 "viewState": {
                   "x": -20,
-                  "y": -160,
+                  "y": -190,
                   "zoom": 0
                 }
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/to_do.md"
+                "file": "hub.canvas"
               }
             }
           }
@@ -149,7 +149,7 @@
       {
         "id": "b58f28b9a1c76d68",
         "type": "tabs",
-        "dimension": 41.32290184921764,
+        "dimension": 41.32290184921763,
         "children": [
           {
             "id": "4de1eb2866e1e9dc",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/to_do.md",
+                "file": "hub.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/to_do.md",
+                "file": "hub.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
       {
         "id": "46086e6dff1ed285",
         "type": "tabs",
-        "dimension": 25.391180654338548,
+        "dimension": 25.39118065433855,
         "children": [
           {
             "id": "bbc7acc49216052c",
@@ -218,34 +218,34 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "33583fa9e77c5683",
+  "active": "f02a7121ff59d90d",
   "lastOpenFiles": [
-    "notes/dashboard.md",
-    "hub.canvas",
-    "templates/book_notes.md",
-    "templates/blog_post.md",
-    "templates/class_notes.md",
-    "templates/daily_notes.md",
-    "templates/meeting_notes.md",
+    "notes/learning/class_02.md",
     "templates/eisenhower_matrix.md",
-    "templates/cornell_notes.md",
+    "templates/daily_notes.md",
+    "templates/book_notes.md",
+    "templates/class_notes.md",
+    "templates/blog_post.md",
+    "notes/Untitled 1.md",
     "notes/Untitled.md",
+    "hub.canvas",
+    "notes/to_do.md",
+    "highlights/Camus-The Myth of Sisyphus.md",
     "highlights/Ahrens-How to Take Smart Notes.md",
     "notes/quote_otd.md",
+    "notes/dashboard.md",
+    "templates/meeting_notes.md",
+    "templates/cornell_notes.md",
     "notes/brain_dump.md",
     "daily_notes/2023-05-15.md",
     "notes/learning/Untitled database.md",
     "notes/projects/project_01.md",
     "notes/learning/class_01.md",
-    "notes/to_do.md",
     "highlights/Camus-Ward-The Stranger.md",
     "highlights/Kiyosaki-Rich Dad Poor Dad.md",
     "highlights/Kim-A Guide to Japanese Grammar.md",
     "highlights/X-Handler-The Autobiography of Malcolm X.md",
     "highlights/Marx-The Communist Manifesto.md",
-    "highlights/Bryson-A Short History of Nearly Everything.md",
-    "highlights/Camus-The Myth of Sisyphus.md",
-    "highlights/Dawkins-The Selfish Gene.md",
     "notes/learning",
     "notes/projects",
     "attachments",

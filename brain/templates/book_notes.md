@@ -1,6 +1,6 @@
 # {{title}}
 
-Date Finished: {{date:MMM d, YYYY}}
+Date Finished: {{date}}
 Author:
 Tags:
 

@@ -1,9 +1,8 @@
 {
 	"nodes":[
-		{"type":"file","file":"notes/brain_dump.md","id":"312a95b9f7686090","x":-720,"y":-620,"width":680,"height":420},
-		{"type":"file","file":"notes/dashboard.md","id":"5a2b97de85acaae6","x":0,"y":-620,"width":680,"height":720},
-		{"type":"file","file":"notes/quote_otd.md","id":"3e5aaf1a46c6fe71","x":0,"y":140,"width":680,"height":160},
-		{"type":"file","file":"notes/to_do.md","id":"132b6636b0e6a011","x":-720,"y":-160,"width":680,"height":460}
+		{"type":"file","file":"notes/brain_dump.md","id":"312a95b9f7686090","x":-720,"y":-620,"width":680,"height":380},
+		{"type":"file","file":"notes/to_do.md","id":"132b6636b0e6a011","x":-720,"y":-200,"width":680,"height":440},
+		{"type":"file","file":"notes/dashboard.md","id":"5a2b97de85acaae6","x":0,"y":-620,"width":680,"height":720}
 	],
 	"edges":[]
 }
