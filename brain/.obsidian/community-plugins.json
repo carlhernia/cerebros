@@ -31,5 +31,8 @@
   "todoist-sync-plugin",
   "readwise-official",
   "quote-of-the-day",
-  "homepage"
+  "homepage",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-annotator",
+  "obsidian-html-plugin"
 ]

@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "hub",
-      "path": "hub.canvas"
+      "basename": "waste_reduction",
+      "path": "notes/waste_reduction.md"
     },
     {
       "basename": "class_02",
-      "path": "notes/learning/class_02.md"
+      "path": "notes/lectures/class_02.md"
+    },
+    {
+      "basename": "dashboard",
+      "path": "notes/dashboard.md"
+    },
+    {
+      "basename": "X-Handler-The Autobiography of Malcolm X",
+      "path": "highlights/X-Handler-The Autobiography of Malcolm X.md"
+    },
+    {
+      "basename": "Marx-The Communist Manifesto",
+      "path": "highlights/Marx-The Communist Manifesto.md"
+    },
+    {
+      "basename": "Kiyosaki-Rich Dad Poor Dad",
+      "path": "highlights/Kiyosaki-Rich Dad Poor Dad.md"
+    },
+    {
+      "basename": "Kim-A Guide to Japanese Grammar",
+      "path": "highlights/Kim-A Guide to Japanese Grammar.md"
+    },
+    {
+      "basename": "Dawkins-The Selfish Gene",
+      "path": "highlights/Dawkins-The Selfish Gene.md"
+    },
+    {
+      "basename": "Camus-Ward-The Stranger",
+      "path": "highlights/Camus-Ward-The Stranger.md"
+    },
+    {
+      "basename": "Camus-The Myth of Sisyphus",
+      "path": "highlights/Camus-The Myth of Sisyphus.md"
+    },
+    {
+      "basename": "Bryson-A Short History of Nearly Everything",
+      "path": "highlights/Bryson-A Short History of Nearly Everything.md"
+    },
+    {
+      "basename": "Ahrens-How to Take Smart Notes",
+      "path": "highlights/Ahrens-How to Take Smart Notes.md"
+    },
+    {
+      "basename": "bbc-image",
+      "path": "attachments/bbc-image.png"
     },
     {
       "basename": "eisenhower_matrix",
@@ -27,26 +71,6 @@
     {
       "basename": "blog_post",
       "path": "templates/blog_post.md"
-    },
-    {
-      "basename": "to_do",
-      "path": "notes/to_do.md"
-    },
-    {
-      "basename": "brain_dump",
-      "path": "notes/brain_dump.md"
-    },
-    {
-      "basename": "dashboard",
-      "path": "notes/dashboard.md"
-    },
-    {
-      "basename": "Camus-The Myth of Sisyphus",
-      "path": "highlights/Camus-The Myth of Sisyphus.md"
-    },
-    {
-      "basename": "Ahrens-How to Take Smart Notes",
-      "path": "highlights/Ahrens-How to Take Smart Notes.md"
     },
     {
       "basename": "meeting_notes",

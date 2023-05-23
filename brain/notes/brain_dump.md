@@ -1,1 +1,0 @@
-*Write whatever's on your mind here.*
